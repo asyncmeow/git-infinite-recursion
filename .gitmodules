@@ -1,0 +1,4 @@
+[submodule "git-infinite-recursion"]
+	path = git-infinite-recursion
+	url = git@github.com:asyncmeow/git-infinite-recursion.git
+	branch = main
